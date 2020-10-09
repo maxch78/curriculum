@@ -1,1 +1,1 @@
-console.log("curriculum")
+$('#element').tooltip('show')
