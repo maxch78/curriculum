@@ -1,1 +1,1 @@
-console.log("curriculum de MAXCH")
+console.log("curriculum")
